@@ -1,5 +1,5 @@
 # Email Subscribe Project
 
-Email Subscribe mini-project
+Email Subscribe Template made via Tailwind CSS
 
 ![Alt text](images/email-subscribe.png)
